@@ -17,15 +17,15 @@
 An overview of the relevant WMO envoirement variables:
 
 
-| Value     | Description              |
-| --------|--------------------------|
-| DB_HOST | Database host            |
-| DB_DATABASE | Database name            |
-| DB_USER | Database username        |
-| DB_PASSWORD | Database password        |
+| Value         | Description              |
+|---------------|--------------------------|
+| DB_HOST       | Database host            |
+| DB_DATABASE   | Database name            |
+| DB_USER       | Database username        |
+| DB_PASSWORD   | Database password        |
 | DB_TASK_TABLE | Database main table name |
-| PORT | Listening port           |
-| HOSTNAME  | Listening host           |  
+| PORT          | Listening port           |
+| HOSTNAME      | Listening host           |  
 
 
 ## Description
